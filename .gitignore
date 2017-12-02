@@ -1,0 +1,6 @@
+node_modules
+secrets.js
+docs
+public/bundle.*
+.env
+.idea
