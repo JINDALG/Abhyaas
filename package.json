@@ -5,12 +5,7 @@
   "main": "src/app.js",
   "scripts": {
     "start": "webpack -w & nodemon --watch server -e js,html ",
-    "build": "webpack --config webpack.dist.config.js",
-    "test": "mocha --watch --require tests/setup.js --compilers js:babel-register tests/*.test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JulieBusch/staged-fright.git"
+    "build": "webpack --config webpack.dist.config.js"
   },
   "author": "StagedFright Team",
   "license": "ISC",
