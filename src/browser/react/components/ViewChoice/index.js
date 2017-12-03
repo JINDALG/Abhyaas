@@ -62,7 +62,7 @@ class ViewChoice extends Component {
                 <li className="list" style={styles.list}>Allow microphone access on your desktop browser.</li>
                 <li className="list" style={styles.list}>Navigate to the following URL on your VR-enabled mobile device:</li>
               </ul>
-              <p style={{fontSize: '18px'}}><strong>https://stagedfright.com/{this.props.params.sessionKey}/practice</strong></p>
+              <p style={{fontSize: '18px'}}><strong>http://current-IP/{this.props.params.sessionKey}/practice</strong></p>
               <br/>
             </div>
           </div>
