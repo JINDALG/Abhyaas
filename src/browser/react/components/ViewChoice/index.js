@@ -55,22 +55,22 @@ class ViewChoice extends Component {
             </div>
           </div>
 
-          <div className="col s6">
-            <div className="padded" style={styles.padded}>
-              <h4 className="center" style={styles.center}>Continue on Mobile</h4>
-              <ul className="list" style={styles.list}>
-                <li className="list" style={styles.list}>Allow microphone access on your desktop browser.</li>
-                <li className="list" style={styles.list}>Navigate to the following URL on your VR-enabled mobile device:</li>
-              </ul>
-              <p style={{fontSize: '18px'}}><strong>http://current-IP/{this.props.params.sessionKey}/practice</strong></p>
-              <br/>
-            </div>
-          </div>
+          {/*<div className="col s6">*/}
+            {/*<div className="padded" style={styles.padded}>*/}
+              {/*<h4 className="center" style={styles.center}>Continue on Mobile</h4>*/}
+              {/*<ul className="list" style={styles.list}>*/}
+                {/*<li className="list" style={styles.list}>Allow microphone access on your desktop browser.</li>*/}
+                {/*<li className="list" style={styles.list}>Navigate to the following URL on your VR-enabled mobile device:</li>*/}
+              {/*</ul>*/}
+              {/*<p style={{fontSize: '18px'}}><strong>http://current-IP/{this.props.params.sessionKey}/practice</strong></p>*/}
+              {/*<br/>*/}
+            {/*</div>*/}
+          {/*</div>*/}
           <div className="col s6">
               <div className="padded" style={styles.padded}>
-                  <h4 className="center" style={styles.center}>Continue on Desktop</h4>
+                  <h4 className="center" style={styles.center}>Continue</h4>
                   <ul>
-                      <li className="list" style={styles.list}>Allow microphone access on your desktop browser.</li>
+                      <li className="list" style={styles.list}>Allow microphone access on your browser.</li>
                       <li className="list" style={styles.list}>Click the button below to enter VR view:</li>
                   </ul>
                   <div>
