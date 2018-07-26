@@ -1,6 +1,6 @@
 node_modules
 secrets.js
 docs
-public/bundle.*
+#public/bundle.*
 .env
 .idea
