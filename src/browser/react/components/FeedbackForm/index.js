@@ -68,8 +68,6 @@ export default class FeedbackForm extends Component {
                   <br/>
                   Shivam Jindal:  <b>jindalshivam65@gmail.com</b>
                   <br/>
-                  Kanishk Sharma: <b>kanishksharma3012@gmail.com</b>
-                <br/>
               </span>
             </h4>
           </div>
