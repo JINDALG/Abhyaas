@@ -64,7 +64,7 @@ export default class FeedbackForm extends Component {
             <div className="col" style={styles.flowCol} >
             <h4>
               <span className='flow-text' style={{color: '#FFFFFF'}}>
-                  Thanks for trying out StagedFright! We would love your feedback at:
+                  Thanks for trying out Abhyaas! We would love your feedback at:
                   <br/>
                   Shivam Jindal:  <b>jindalshivam65@gmail.com</b>
                   <br/>

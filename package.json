@@ -7,7 +7,7 @@
     "start": "webpack -w & nodemon --watch app -e js,html ",
     "build": "webpack --config webpack.dist.config.js"
   },
-  "author": "StagedFright Team",
+  "author": "Abhyaas Team",
   "license": "ISC",
   "dependencies": {
     "aframe": "^0.5.0",

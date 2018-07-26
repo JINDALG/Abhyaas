@@ -32,7 +32,7 @@ class ViewChoice extends Component {
           <div className="col s12" style={{backgroundColor: teal300 }} >
             <h4 className="center" style={styles.center}>
               <span style={{color: '#FFFFFF'}}>
-                Welcome to StagedFright's VR speech practice mode!
+                Welcome to Abhyaas's VR speech practice mode!
               </span>
             </h4>
           </div>

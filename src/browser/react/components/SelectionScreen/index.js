@@ -16,7 +16,7 @@ const SelectionScreen = (props) => (
       <div className="col s12" style={{backgroundColor: teal300 }} >
         <h4>
             <span className='flow-text' style={styles.title}>
-              How will you enjoy StagedFright today?
+              How will you enjoy Abhyaas today?
             </span>
         </h4>
       </div>

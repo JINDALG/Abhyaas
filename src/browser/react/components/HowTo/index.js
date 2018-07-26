@@ -17,7 +17,7 @@ class HowTo extends Component {
       <div style={styles.padded}>
         The speech you entered on the previous page has been formatted into lines, which will be scrolled at the speaking rate you selected.
         <br/>
-        In addition to the on-screen teleprompter, StagedFright's graphic overlay also includes 2 indicators displaying real-time visual feedback on your performance:
+        In addition to the on-screen teleprompter, Abhyaas's graphic overlay also includes 2 indicators displaying real-time visual feedback on your performance:
         <br/>
         <div className="col s6">
           <ul className="list" style={styles.list}>
