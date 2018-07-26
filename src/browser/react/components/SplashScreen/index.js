@@ -7,7 +7,7 @@ import { teal300 } from 'material-ui/styles/colors';
 export const OverlayText1 = ({ sessionKey }) => (
   <a href="#" style={styles.overlayText}>
     <h1 style={styles.overlayTextBig}>
-      Conquer stage fright.
+      ABHYAAS
     </h1>
         <Link to={`/${sessionKey}/select`}>
             <VRButton label={"Let's Go!"} color={teal300} type={"submit"} />
